@@ -1,0 +1,353 @@
+[
+  {
+    "id": "ui_click",
+    "file": "ui-click.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A single dry wooden button click in a stone dungeon hall, close-miked, crisp transient, faint parchment rustle, short natural tail, no music, no reverb wash",
+    "duration_requested": 0.6,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ui_select",
+    "file": "ui-select.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A soft metallic tick of a small brass toggle set into dark oak, close-miked, single clean click, short dark fantasy game UI, no music",
+    "duration_requested": 0.6,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ui_scroll",
+    "file": "ui-scroll.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A short dry parchment page slide across a rough wooden desk, close-miked, papery friction, no music",
+    "duration_requested": 0.5,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ui_open",
+    "file": "ui-open.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A leather satchel clasp unfastening and a parchment map unfolding on a stone table, close-miked, dark fantasy game UI, short natural room tone",
+    "duration_requested": 1,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ui_close",
+    "file": "ui-close.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A leather-bound book closing softly on a stone table, dry muffled thump and a small puff of dust, close-miked",
+    "duration_requested": 0.9,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ui_error",
+    "file": "ui-error.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A low wooden thud of a hand hitting a heavy oak table, followed by one short muted dissonant lute string, dark fantasy game error cue, dry",
+    "duration_requested": 0.9,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "splash_skip",
+    "file": "splash-skip.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A single dry stone tap on a dungeon wall, close-miked, very short, dark fantasy game UI",
+    "duration_requested": 0.6,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "splash_complete",
+    "file": "splash-complete.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A low warm bronze bell struck once in a stone hall, soft short tail, dark fantasy game transition chime, no music bed",
+    "duration_requested": 1,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "char_step",
+    "file": "char-step.mp3",
+    "selected": "v2.mp3",
+    "prompt": "Cloth robe shifting and one soft leather boot step on stone, close-miked, subtle, dark fantasy character creation",
+    "duration_requested": 0.6,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ability_up",
+    "file": "ability-up.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A single rising low harp note with warm wooden resonance and a short bright shimmer, dark fantasy game stat increase, dry",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ability_down",
+    "file": "ability-down.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A single falling low harp note with a dull wooden resonance, short dark fantasy game stat decrease, dry",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "char_create",
+    "file": "char-create.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A heavy wax seal pressed onto parchment followed by a warm low string chord swell, dark fantasy character creation confirmation, short",
+    "duration_requested": 1.6,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "char_select",
+    "file": "char-select.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A distant soft choir breath and a single warm chime as a hero is chosen, dark fantasy game, subtle, no clear melody",
+    "duration_requested": 1,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "char_delete",
+    "file": "char-delete.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A parchment sheet torn slowly and a small puff of ash, close-miked, dark fantasy game, ominous but quiet",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "move_step",
+    "file": "move-step.mp3",
+    "selected": "v1.mp3",
+    "prompt": "One leather boot step on rough dungeon stone, close-miked, dry grit, subtle, short",
+    "duration_requested": 0.7,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "move_blocked",
+    "file": "move-blocked.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A boot kicking a stone wall by accident, dull stone thud with a rattle of a metal buckle chain, short dark fantasy game foley",
+    "duration_requested": 0.9,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "enemy_encounter",
+    "file": "enemy-encounter.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A low war drum hit and a distant guttural monster growl in a stone corridor, dark fantasy encounter stinger, dry, no melody",
+    "duration_requested": 1.6,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "boss_encounter",
+    "file": "boss-encounter.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A deep cinematic braam, a distant monstrous roar and dragging iron chains in a vast stone hall, dark fantasy boss encounter stinger",
+    "duration_requested": 2.2,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "npc_encounter",
+    "file": "npc-encounter.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A leather cloak shift and a soft friendly hum of a stranger in a dungeon corridor, close-miked, dark fantasy, no words",
+    "duration_requested": 1,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "merchant_found",
+    "file": "merchant-found.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A small coin purse jingling and a warm low bell, dark fantasy merchant greeting cue, close-miked, short",
+    "duration_requested": 1.2,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "story_event",
+    "file": "story-event.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A parchment page turn and a low mysterious string drone swell, dark fantasy story event, no melody, dry",
+    "duration_requested": 1.6,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "treasure_found",
+    "file": "treasure-found.mp3",
+    "selected": "v1.mp3",
+    "prompt": "An iron chest latch snapping open, gold coins sliding, and a warm rising harp arpeggio, dark fantasy treasure reward, close-miked",
+    "duration_requested": 1.4,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "trap_triggered",
+    "file": "trap-triggered.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A stone floor plate sinking, wooden spikes snapping out, and crumbling grit, dark fantasy trap springing, close-miked, dry",
+    "duration_requested": 1.2,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "trap_detected",
+    "file": "trap-detected.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A faint metallic click and a tense low tick from a hidden mechanism, dark fantasy trap detected cue, subtle, short",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "exit_found",
+    "file": "exit-found.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A distant cold draft and a heavy stone door rumbling open, dark fantasy exit discovered, low and airy, no music",
+    "duration_requested": 1.4,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "event_trigger",
+    "file": "event-trigger.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A parchment map unfolding and a soft low bell in a stone hall, dark fantasy event trigger, subtle, no melody",
+    "duration_requested": 1,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "layer_change",
+    "file": "layer-change.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A massive stone door grinding open followed by a deep descending rumble, dark fantasy dungeon descent",
+    "duration_requested": 2,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "safe_area",
+    "file": "safe-area.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A soft warm low pad of air and a faint distant bell, dark fantasy safe haven, gentle, no melody",
+    "duration_requested": 1.4,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "equip_item",
+    "file": "equip-item.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A leather strap tightening and a metal buckle fastening, close-miked, dark fantasy equipment, short",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "unequip_item",
+    "file": "unequip-item.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A metal buckle unfastening and leather slipping off, close-miked, dark fantasy equipment removal, short",
+    "duration_requested": 0.7,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "use_item",
+    "file": "use-item.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A glass vial cork popping and liquid pouring, close-miked, dark fantasy potion use, short",
+    "duration_requested": 1,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "drop_item",
+    "file": "drop-item.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A small metal object dropping on stone with a short clatter, close-miked, dark fantasy inventory, short",
+    "duration_requested": 0.7,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "buy_item",
+    "file": "buy-item.mp3",
+    "selected": "v1.mp3",
+    "prompt": "Three small gold coins clinking onto a wooden counter, close-miked, dark fantasy merchant purchase, short",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "sell_item",
+    "file": "sell-item.mp3",
+    "selected": "v2.mp3",
+    "prompt": "Gold coins sliding across a wooden counter into a pouch, close-miked, dark fantasy merchant sale, short",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "not_enough_gold",
+    "file": "not-enough-gold.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A single coin dropped on a wooden counter with a dull flat ring and a low wooden thud, dark fantasy rejection cue, dry",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "puzzle_success",
+    "file": "puzzle-success.mp3",
+    "selected": "v1.mp3",
+    "prompt": "Three rising notes on a small silver chime with a warm stone reverb, dark fantasy puzzle solved, gentle",
+    "duration_requested": 1.3,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "puzzle_failure",
+    "file": "puzzle-failure.mp3",
+    "selected": "v1.mp3",
+    "prompt": "A dull wooden knock and a low muted string thud, dark fantasy puzzle failed, dry, ominous but quiet",
+    "duration_requested": 1,
+    "prompt_influence": 0.85,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "rest_heal",
+    "file": "rest-heal.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A small campfire crackling softly with a slow deep breath, dark fantasy rest and recovery, close-miked",
+    "duration_requested": 2,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  },
+  {
+    "id": "ending_unlock",
+    "file": "ending-unlock.mp3",
+    "selected": "v2.mp3",
+    "prompt": "A slow emotional string swell with a single distant bell and a soft choir breath, dark fantasy ending reveal",
+    "duration_requested": 3,
+    "prompt_influence": 0.8,
+    "model": "eleven_text_to_sound_v2"
+  }
+]
