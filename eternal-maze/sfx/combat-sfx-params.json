@@ -211,14 +211,14 @@
     "id": "spell_cast",
     "family": "cast",
     "file": "spell-cast.mp3",
-    "prompt": "A generic arcane incantation gesture, low rising hum with a soft airy shimmer, dark fantasy spell casting, dry, no voice",
-    "duration_requested": 1,
-    "prompt_influence": 0.8,
+    "prompt": "A quick arcane paper-and-air swirl with a bright glassy ping at the end, instrumental only, no vocals, no human sounds, dark fantasy spell casting, dry",
+    "duration_requested": 0.8,
+    "prompt_influence": 0.85,
     "model": "eleven_text_to_sound_v2",
-    "actual_seconds": 1,
-    "input_peak_db": -0.2,
-    "output_peak_db": -1.7,
-    "gain_db": -1.3
+    "actual_seconds": 0.747,
+    "input_peak_db": -2,
+    "output_peak_db": -2.86,
+    "gain_db": 0.5
   },
   {
     "id": "magic_fire",
